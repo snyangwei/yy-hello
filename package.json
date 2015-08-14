@@ -1,0 +1,11 @@
+{
+  "name": "yy-hello",
+  "version": "0.0.1",
+  "description": "测试学习",
+  "main": "yy-hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yangwei04",
+  "license": "ISC"
+}
